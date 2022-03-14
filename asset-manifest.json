@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kartikgarg12.github.io/static/css/main.dac67ad9.css",
+    "main.js": "/Kartikgarg12.github.io/static/js/main.1df7b74a.js",
+    "static/js/787.11f4bad3.chunk.js": "/Kartikgarg12.github.io/static/js/787.11f4bad3.chunk.js",
+    "index.html": "/Kartikgarg12.github.io/index.html",
+    "main.dac67ad9.css.map": "/Kartikgarg12.github.io/static/css/main.dac67ad9.css.map",
+    "main.1df7b74a.js.map": "/Kartikgarg12.github.io/static/js/main.1df7b74a.js.map",
+    "787.11f4bad3.chunk.js.map": "/Kartikgarg12.github.io/static/js/787.11f4bad3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac67ad9.css",
+    "static/js/main.1df7b74a.js"
+  ]
+}
